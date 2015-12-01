@@ -1,0 +1,26 @@
+{
+  "name": "sew",
+  "version": "0.0.1",
+  "description": "tool for joining files",
+  "main": "sew.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo 'no test specified' && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cogmob/node-sew.git"
+  },
+  "keywords": [
+    "file",
+    "join"
+  ],
+  "author": "cogmob",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cogmob/node-sew/issues"
+  },
+  "homepage": "https://github.com/Cogmob/node-sew#readme"
+}
